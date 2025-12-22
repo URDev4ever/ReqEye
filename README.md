@@ -3,10 +3,10 @@
   <img width="395" height="137" alt="image" src="https://github.com/user-attachments/assets/5d01f6ab-d229-4ca1-894e-d99b6059cfad" />
 </p>
 <h2 align="center">
-ReqEye is a **CLI assistant for HTTP request analysis**, designed to help security researchers, bug bounty hunters, and pentesters **identify high‑value entry points** worth manual testing.
+ReqEye is a CLI assistant for HTTP request analysis, designed to help security researchers, bug bounty hunters, and pentesters identify high‑value entry points worth manual testing.
 
-It does **not** scan targets, send traffic, or claim vulnerabilities.
-ReqEye focuses on **where to look**, not on making assumptions.
+It does not scan targets, send traffic, or claim vulnerabilities.
+ReqEye focuses on where to look, not on making assumptions.
 </h2>
 
 ## Philosophy
