@@ -1,4 +1,5 @@
 <h1 align="center">ReqEye</h1>
+<p align="center"> 🇺🇸 <a href="README.md"><b>English</b></a> | 🇪🇸 <a href="README_ES.md">Español</a> </p>
 <p align="center">
   <img width="395" height="137" alt="image" src="https://github.com/user-attachments/assets/5d01f6ab-d229-4ca1-894e-d99b6059cfad" />
 </p>
