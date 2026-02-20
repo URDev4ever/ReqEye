@@ -236,6 +236,16 @@ You are responsible for:
 
 ---
 
+## Contributing
+
+Pull requests are welcome if they:
+
+* Improve HTTP parsing accuracy, entry-point detection logic, or heuristic risk scoring
+* Enhance report clarity, diff precision, or mutation quality without adding automated scanning behavior
+* Preserve the human-centric philosophy of the tool (no traffic generation, no exploitation claims, no false positives as “vulnerabilities”)
+
+---
+
 This tool exists to help humans focus where it matters most.
 
 ## Final Note
