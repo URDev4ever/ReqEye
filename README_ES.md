@@ -242,6 +242,16 @@ Eres responsable de:
 
 ---
 
+## Contribuir
+
+Las pull requests son bienvenidas si:
+
+* Mejoran la precisión del parsing HTTP, la lógica de detección de entry points o el sistema heurístico de riesgo
+* Mejoran la claridad de los reportes, la precisión del diff o la calidad de las mutaciones sin agregar comportamiento de escaneo automático
+* Preservan la filosofía centrada en el análisis humano (sin generación de tráfico, sin afirmar explotación, sin presentar indicadores como “vulnerabilidades”)
+
+---
+
 Esta herramienta existe para ayudar a los humanos a enfocarse donde realmente importa.
 
 ## Nota final
